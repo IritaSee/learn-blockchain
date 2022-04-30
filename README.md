@@ -13,3 +13,4 @@ to be able to tamper one block, and mine the rest of the chain, you need to be f
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 or
 [Ethereum: The Ultimate Smart Contract and Decentralized Application Platform](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)
+3. Some faucet to get 0.1 ETH in Rinkeby Test Network: https://faucets.chain.link/rinkeby
