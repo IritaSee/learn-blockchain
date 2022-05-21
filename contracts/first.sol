@@ -8,7 +8,4 @@ contract Inbox {
     function setMessage(string NewMessage) public {
         message = NewMessage;
     }
-    function getMessage() public view returns (string) {
-        return message;
-    }
 }
